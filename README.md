@@ -3,10 +3,12 @@
   <p><i>Transforming data and logic into intelligent, adaptive digital ecosystems.</i></p>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Working%20on-Adaptive%20Learning-9cf?style=for-the-badge&logo=headspace&logoColor=white" alt="Adaptive Learning" /><br/>
-    <img src="https://img.shields.io/badge/Learning-Agentic%20AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" /><br/>
-    <img src="https://img.shields.io/badge/Ask%20me%20about-Generative%20AI-orange?style=for-the-badge&logo=googlebard&logoColor=white" alt="Generative AI" />
+    🔹 <b>Working on:</b> <kbd>Adaptive Learning</kbd> <br/>
+    🧠 <b>Learning:</b> <kbd>Agentic AI</kbd> <br/>
+    💬 <b>Ask me about:</b> <kbd>Generative AI</kbd>
   </p>
+  
+  <br/>
 
   <a href="mailto:islam.benali.personal@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-islam.benali.personal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
