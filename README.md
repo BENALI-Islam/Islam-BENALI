@@ -21,9 +21,10 @@
 
 I am a results-driven **AI Engineer and Software Developer** passionate about architecting intelligent systems and deploying scalable software architectures. With a strong foundation in designing, training, and implementing state-of-the-art AI solutions, I bridge the gap between complex machine learning models and production-ready applications.
 
-* **Team Leadership:** Proven track record acting as a Technical Team Leader across multiple cross-functional projects, guiding developers and data scientists from ideation to deployment.
+* **The "Vibe Coding" Professional:** I operate at the cutting edge of modern development as an advanced **Vibe Coder**. Instead of focusing on manual syntax typing, I masterfully leverage and orchestrate AI generation tools to build complex infrastructures at hyper-speed. I know exactly how to guide, prompt, and direct AI models to output production-grade software solutions with precision.
+* **Team Leadership:** Proven track record acting as a Technical Team Leader across multiple cross-functional projects, guiding developers, data scientists, and AI-assisted workflows from ideation to deployment.
 * **End-to-End AI Integration:** Successfully implemented tailored AI solutions across diverse industries, ranging from intelligent automated **Customer Service** agents to robust **AI-driven Security systems**.
-* **Core Competencies:** Adaptive Learning Systems, Generative & Agentic AI, MLOps, Distributed Systems Architecture, and Full-Stack Engineering.
+* **Core Competencies:** AI Orchestration & Generation, Adaptive Learning Systems, Generative & Agentic AI, MLOps, Distributed Systems Architecture, and Full-Stack Engineering.
 
 <br/>
 
